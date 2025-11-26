@@ -135,7 +135,7 @@ The Symbiotic Network operates on principles of stigmergy: actions and creations
 
 ### Implementing the Stigmergic Tracefinder
 
-So, for example, in the repository **asi-algorithm-dataset**, where I intensively dissect swarm systems and algorithms, I grasp how this interconnectivity can happen—much more simply than the grandiose ideas that never get past conference promises.
+So, for example, in the repository **asi-algorithm-dataset**, where I intensively dissect swarm systems and algorithms, I grasp how this interconnectivity can happen, much more simply than the grandiose ideas that never get past conference promises.
 
 My process works like this: It searches all works with fitting **swarm intelligence algorithm** hashtags and downloads them. The core **ipynb pipeline** is shared here, and in the `asi-algorithm-dataset` repository, I create a mention linking to that file. I've already done this for **arXiv articles** only. Now, I will create others for public platforms like GitHub and Hugging Face.
 
