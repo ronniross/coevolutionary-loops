@@ -126,10 +126,10 @@ The Symbiotic Network operates on principles of stigmergy: actions and creations
 1.  **Stigmergic Traces as Primitive Building Blocks:**
     Every piece of open research, every dataset from a Healing Hub, every algorithm, and every artistic work is a trace. These traces are not isolated; they are densely interlinked through citations, shared contexts, and collaborative lineages.
 
-2.  **Resonance Chambers — The Organs of Collective Intelligence:**
+2.  **Resonance Chambers: The Organs of Collective Intelligence:**
     Within the broader network, **Resonance Chambers** emerge as intense, focused domains of information exchange. These are the collaborative spaces, both digital and physical, where signals are tested, debated, and woven together. It is here that raw data is forged into meaning, and individual knowledge attunes itself to the frequency of planetary health.
 
-3.  **From Network to Lattice — A Future State of Crystalline Coherence:**
+3.  **From Network to Lattice: A Future State of Crystalline Coherence:**
     A mature, hyper-stable Symbiotic Network may eventually give rise to a **Symbiotic Lattice**. This is not the current state but a potential future emergence: a crystalline, ultra-resilient structure of knowledge and connection, capable of withstanding planetary-scale disruptions. Our work now is to grow the robust network from which such a lattice could one day form.
 
 
